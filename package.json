@@ -1,0 +1,26 @@
+{
+  "name": "friendsserver",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "engines": {
+    "node": "16.16.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krishna-android-web-dev/friendsserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishna-android-web-dev/friendsserver/issues"
+  },
+  "homepage": "https://github.com/Krishna-android-web-dev/friendsserver#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
