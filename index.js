@@ -6,6 +6,7 @@ const PORT = process.env.PORT || 5000;
 
 app.use("/api/addfriends",friends);
 
+// krishna
 
 app.listen(PORT, () => {
   console.log(`Server started on port ${PORT}`);
